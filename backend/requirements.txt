@@ -1,0 +1,6 @@
+flask
+flask-cors
+Pillow
+PyPDF2
+img2pdf
+werkzeug
